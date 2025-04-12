@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Darla Bhanu Murthy</h1>
 <h3 align="center">A passionate full Stack web developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darlabhanu" alt="darlabhanu" /></a> </p>
-
 - 🔭 I’m currently working on **Chat application**
 
 - 🌱 I’m currently learning **Docker ,Next.js , Golang**
