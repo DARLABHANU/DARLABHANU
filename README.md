@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on [Algo-verse](https://algo-verse.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [https://bhanumurthy-portfolio.vercel.app/](https://bhanumurthy-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [my portfolio](https://darlabhanumurthy.vercel.app/)
 
 - 📝 I regularly write articles on [https://bhanuusr.blogspot.com](https://bhanuusr.blogspot.com)
 
